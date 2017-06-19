@@ -1,7 +1,7 @@
 var ansi = require('ansi')
   , cursor = ansi(process.stdout)
  
-var s = 'Hello world! :)';
+var s = 'Hello world!';
 
 cursor.write('\n\n\n')
 
